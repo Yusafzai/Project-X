@@ -1,0 +1,58 @@
+.Map {
+    height: 800px;
+}
+
+.lag {
+    position: relative;
+    right: 200px;
+    width: 500px;
+}
+
+.goal {
+    position: relative;
+    left: 350px;
+    bottom: 250px;
+}
+
+.textone {
+    position: relative;
+    left: 140px;
+    bottom: 150px;
+    font-size: xx-large;
+    color: #336699;
+}
+
+.texttwo {
+    position: relative;
+    bottom: 90px;
+    right: 200px;
+    font-size: 12px;
+}
+
+.goal2 {
+    position: relative;
+    left: 350px;
+    bottom: -40px;
+}
+
+.textone2 {
+    position: relative;
+    left: 140px;
+    bottom: -140px;
+    font-size: xx-large;
+    color: #336699;
+}
+
+.texttwo2 {
+    position: relative;
+    bottom: -200px;
+    right: 200px;
+    font-size: 12px;
+}
+
+.lag2 {
+    position: relative;
+    right: 160px;
+    width: 550px;
+    bottom: 100px;
+}

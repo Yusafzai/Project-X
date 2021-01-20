@@ -1,0 +1,45 @@
+.first {
+     position: relative;
+     text-decoration: none;
+}.first:hover::after {
+      content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    border: 1px solid white;
+    transition: 0.9s;
+}
+
+.second {
+     position: relative;
+     text-decoration: none;
+}.second:hover::after {
+      content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    border: 1px solid white;
+    transition: 0.9s;
+}
+
+.third {
+     position: relative;
+     text-decoration: none;
+}.third:hover::after {
+      content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    border: 1px solid white;
+    transition: 0.9s;
+}
+
+.iphone{
+     width: 290px;
+     height: 630px;
+     position: relative;
+     bottom: 520px;
+}
