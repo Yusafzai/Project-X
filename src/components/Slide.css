@@ -1,0 +1,23 @@
+
+.Slide {
+    height: 300px;
+}
+
+.texts1 {
+    color: #336699;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.texts2 {
+    font-size: 12px;
+    font-weight: 200;
+    margin-left: 95px;
+}
+
+.b1 {
+    position: relative;
+    right: 210px;
+    top: 200px;
+}
